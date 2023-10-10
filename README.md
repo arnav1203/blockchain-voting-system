@@ -29,7 +29,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 #### Cloning the project
 
-```git clone https://github.com/faizscripts/blockchain-voting-system```
+```git clone https://github.com/arnav1203/blockchain-voting-system```
 
 ```cd blockchain-voting-system```
 
